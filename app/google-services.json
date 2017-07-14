@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "262494110092",
+    "firebase_url": "https://firstfbtest-15f99.firebaseio.com",
+    "project_id": "firstfbtest-15f99",
+    "storage_bucket": "firstfbtest-15f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262494110092:android:87378069125d6b03",
+        "android_client_info": {
+          "package_name": "com.example.tacademy.firebasetest193"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262494110092-68htm5gq54eqm5uk9pkjrepf3vs9ojnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIKclsZV6r8gZKQdZyb-qKu9R20GoJLU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
